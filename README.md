@@ -16,9 +16,9 @@ This folder contains the code to simply run multiple instances of the CBCS-list2
 
 ## Usage
 ### Single-Threaded
-Run CBCS-list2.exe with the beginning "stuid" as the parameter.
+Run CBCS-list2.exe with the beginning "stuid" as the parameter.	<br>
 Example: CBCS-list2.exe 60000 (For stuid 60000-61000)
 
 ### Multi-Threaded
-Make changes in CBCS.cpp for the desired range. Make sure that CBCS.exe and CBCS-list2.exe are in the same folder. Just open CBCS.exe.
+Make changes in CBCS.cpp for the desired range. Make sure that CBCS.exe and CBCS-list2.exe are in the same folder. Just open CBCS.exe.	<br>
 Example: CBCS.exe
