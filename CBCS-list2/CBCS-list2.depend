@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1513356534 source:c:\users\skumb\documents\codeblocks\cbcs-list2\main.cpp
+	<iostream>
+	<Windows.h>
+	<wininet.h>
+	<cstring>
+	<conio.h>
+	<sstream>
+	<iomanip>
+	<fstream>
+	<math.h>
+	<locale>
+	<cstdlib>
+	<time.h>
+	<pthread.h>
+
