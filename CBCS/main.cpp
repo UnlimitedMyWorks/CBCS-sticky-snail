@@ -14,10 +14,15 @@ int main(int argc, char *argv[])
         char no[5];
         char cmd [300] = "start cmd /k ";
         num = atoi(argv[1]) + (i * 1000);
+
+        if(num >val)
+            break;
+
         itoa(num, no, 10);
         strcat(cbcs1,no);
         strcat(cmd, cbcs1);
-        system(cmd);
+        cout << cmd;
+        //system(cmd);
     }
     return 0;
 }

@@ -12,7 +12,7 @@ It will extract the NAME, BRANCH, SECTION chosen from the web pages.
 This folder contains the code to download the Data in single threaded mode upto the next 1000 stu-ids.
 
 ### CBCS
-This folder contains the code to simply run multiple instances of the CBCS-list2, more like multi threading. Using p_thread didn't improve the results.
+This folder contains the code to run multiple instances of the CBCS-list2, more like multi threading. Using p_thread didn't improve the results.
 
 ## Usage
 ### Single-Threaded
