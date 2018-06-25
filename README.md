@@ -21,6 +21,6 @@ Run CBCS-list2.exe with the beginning "stuid" as the parameter.	<br>
 **Example**: CBCS-list2.exe 60000 (For stuid 60000-61000)
 
 ### Multi-Threaded
-Make sure that CBCS.exe and CBCS-list2.exe are in the same folder. Run CBCS.exe with the beginning and ending "stuid" as the parameters.	<br>
-**Example**: CBCS.exe 60000 65000
+Make sure that CBCS.exe and CBCS-list2.exe are in the same folder. Run CBCS.exe with the beginning and ending "stuid" as the parameters and output it to an executable ".bat" and run it.	<br>
+**Example**: CBCS.exe 60000 65000 > run.bat && run.bat
 
